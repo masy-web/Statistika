@@ -1,5 +1,6 @@
 # Statistika
 Rumus 
+
 *Kelompok 8 - Kelas Statistika C
 - Putri Armaini (192410101094)
 - Arham Zainul Abidin (192410101095)
